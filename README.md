@@ -37,6 +37,6 @@ I'm a French psycho.
 ![C++](https://img.shields.io/badge/C++-Advanced-lightblue?style=flat-square&logo=c%2B%2B)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sung-Jinw00&theme=dark&hide_border=true)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sung-Jinw00&layout=compact&theme=dark)  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Sung-Jinw00&theme=react-dark&hide_border=true)  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sung-Jinw00&theme=react-dark&hide_border=true)  
 [![trophy](https://github-profile-trophy.vercel.app/?username=Sung-Jinw00&theme=darkhub)](https://github.com/Sung-Jinw00)
 
