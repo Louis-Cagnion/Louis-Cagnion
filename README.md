@@ -25,7 +25,7 @@ I'm a French psycho.
 
 ### 📫 How to Reach Me
 - GitHub: [@Sung-Jinw00](https://github.com/Sung-Jinw00)  
-- Email: your.email@example.com (replace with yours)
+- Email: louis.cagnion.pro@gmail.com
 
 ### 😄 Fun Fact
 - Capable of achieving the best… and the worst. Beware! 😈
