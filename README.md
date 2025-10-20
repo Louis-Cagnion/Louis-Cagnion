@@ -23,7 +23,7 @@ I'm a French psycho.
 - Creative coding projects
 
 ### 📫 How to Reach Me
-- GitHub: [@Sung-Jinw00](https://github.com/Sung-Jinw00)  
+- GitHub: [@Sung-Jinw00](https://github.com/Sung-Jinw00) (congratulations, you're in the right spot)  
 - Email: louis.cagnion.pro@gmail.com
 
 ### 😄 Fun Fact
