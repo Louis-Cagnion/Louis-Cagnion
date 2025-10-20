@@ -1,6 +1,5 @@
 ## Hello there 👋
 
-I like to ⏫ Leveling up ⏫  
 I'm a French psycho.
 
 ---
