@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-I'm a French psycho.
+I'm a French psycho, currently student in 42 school.
 
 ---
 
