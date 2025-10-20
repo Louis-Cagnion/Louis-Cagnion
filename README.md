@@ -1,7 +1,7 @@
-## Hi there 👋
+## Hello there 👋
 
-⏫ Leveling up ⏫  
-A French psycho
+I like to ⏫ Leveling up ⏫  
+I'm a French psycho.
 
 ---
 
