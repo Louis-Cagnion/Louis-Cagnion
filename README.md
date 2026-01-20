@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-I'm a French psycho, currently student in 42 school.
+I'm currently student in 42 school.
 
 ---
 
@@ -25,9 +25,7 @@ I'm a French psycho, currently student in 42 school.
 ### 📫 How to Reach Me
 - GitHub: [@Sung-Jinw00](https://github.com/Sung-Jinw00) (congratulations, you're in the right spot)  
 - Email: louis.cagnion.pro@gmail.com
-
-### 😄 Fun Fact
-- Capable of achieving the best… and the worst. Beware! 😈
+- LinkedIn : https://www.linkedin.com/in/louis-cagnion-7249121a6/
 
 ---
 
