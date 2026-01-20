@@ -10,7 +10,8 @@ I'm currently student in 42 school.
 - Exploring game development and AI
 
 ### 🌱 Currently Learning
-- Advanced Python features  
+- Advanced Python features
+- Machine learning  
 - Web development (Node.js / React)
 
 ### 👯 Looking to Collaborate On
