@@ -6,18 +6,19 @@ I'm currently student in 42 school.
 
 ### 🔭 Currently Working On
 - Fun personal projects  
-- Improving my C and C++ skills  
+- Improving my Python skills  
 - Exploring game development and AI
 
 ### 🌱 Currently Learning
-- Advanced C++ features  
+- Advanced Python features  
 - Web development (Node.js / React)
 
 ### 👯 Looking to Collaborate On
-- Open-source C/C++ projects, especially in AI and game development  
+- AI  
+- game development
 
 ### 💬 Ask Me About
-- C / C++ / Algorithms  
+- C / C++ / Python / Algorithms  
 - Game development  
 - AI  
 - Creative coding projects
