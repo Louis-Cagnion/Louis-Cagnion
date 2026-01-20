@@ -24,8 +24,8 @@ I'm currently student in 42 school.
 
 ### 📫 How to Reach Me
 - GitHub: [@Sung-Jinw00](https://github.com/Sung-Jinw00) (congratulations, you're in the right spot)  
-- Email: louis.cagnion.pro@gmail.com
-- LinkedIn : https://www.linkedin.com/in/louis-cagnion-7249121a6/
+- Email : [louis.cagnion.pro@gmail.com](mailto:louis.cagnion.pro@gmail.com)
+- LinkedIn : [Louis Cagnion](https://www.linkedin.com/in/louis-cagnion-7249121a6/)
 
 ---
 
