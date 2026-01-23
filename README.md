@@ -1,45 +1,66 @@
 ## Hello there 👋
 
-I'm currently student in 42 school.
+I'm a student at **42 School**, focused on building strong foundations in **algorithms, low-level programming, and Python**, with a growing interest in **Artificial Intelligence** and **game development**.
+
+I value clean code, problem solving, and teamwork, and I’m currently prioritizing the completion of the 42 curriculum before starting personal AI projects.
 
 ---
 
 ### 🔭 Currently Working On
-- Fun personal projects  
+- Completing the 42 School core curriculum  
+- Team-based projects with strong algorithmic focus  
 - Improving my Python skills  
-- Exploring game development and AI
+
+---
 
 ### 🌱 Currently Learning
-- Advanced Python features
-- Machine learning  
-- Web development (Node.js / React)
+- Advanced Python  
+- Machine Learning fundamentals  
+- Data-oriented programming concepts  
+
+---
+
+### 🧭 AI Roadmap
+- Strengthening algorithmic foundations through the 42 curriculum  
+- Preparing for future personal projects in Machine Learning  
+- Exploring AI applications in games and simulations  
+
+---
 
 ### 👯 Looking to Collaborate On
-- AI  
-- game development
+- Algorithmic or system-level projects  
+- Game development projects  
+- AI-related projects (learning-oriented, junior level)  
+
+---
 
 ### 💬 Ask Me About
-- C / C++ / Python / Algorithms  
-- Game development  
-- AI  
-- Creative coding projects
+- Algorithms & problem solving  
+- C / C++ / Python  
+- Game development fundamentals  
+- AI logic & experimentation  
+
+---
+
+### 🎓 42 School Background
+- Strong focus on algorithms and data structures  
+- Low-level programming in C and C++  
+- Peer-to-peer learning and team collaboration  
+- Autonomous project-based learning  
+
+---
 
 ### 📫 How to Reach Me
-- GitHub: [@Sung-Jinw00](https://github.com/Sung-Jinw00) (congratulations, you're in the right spot)  
-- Email : [louis.cagnion.pro@gmail.com](mailto:louis.cagnion.pro@gmail.com)
-- LinkedIn : [Louis Cagnion](https://www.linkedin.com/in/louis-cagnion-7249121a6/)
+- GitHub: [@Sung-Jinw00](https://github.com/Sung-Jinw00)  
+- Email: [louis.cagnion.pro@gmail.com](mailto:louis.cagnion.pro@gmail.com)  
+- LinkedIn: [Louis Cagnion](https://www.linkedin.com/in/louis-cagnion-7249121a6/)  
 
 ---
 
 ### ⚡ Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sung-Jinw00&layout=compact&theme=dark)  
-![C](https://img.shields.io/badge/C-Expert-blue?style=flat-square&logo=c)  
-![C++](https://img.shields.io/badge/C++-Advanced-lightblue?style=flat-square&logo=c%2B%2B)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sung-Jinw00&layout=compact&theme=dark)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sung-Jinw00&theme=dark&hide_border=true)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sung-Jinw00&theme=dark&hide_border=true)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sung-Jinw00&theme=react-dark&hide_border=true)  
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Sung-Jinw00&theme=darkhub)](https://github.com/Sung-Jinw00)
-
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sung-Jinw00&theme=react-dark&hide_border=true)
