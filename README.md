@@ -55,6 +55,8 @@ I value clean code, problem solving, and teamwork, and I’m currently prioritiz
 - Peer-to-peer learning and team collaboration  
 - Autonomous project-based learning  
 
+> Most 42 core curriculum projects are kept private in accordance with school policies.
+
 ---
 
 ### 📫 How to Reach Me
