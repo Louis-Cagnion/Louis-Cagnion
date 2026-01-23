@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-I'm a student at **42 School**, focused on building strong foundations in **algorithms, low-level programming, and Python**, with a growing interest in **Artificial Intelligence** and **game development**.
+I'm a student at **42 School**, focused on building strong foundations in **algorithms, low-level programming, and Python**, with a growing interest in **Artificial Intelligence**.
 
 I value clean code, problem solving, and teamwork, and I’m currently prioritizing the completion of the 42 curriculum before starting personal AI projects.
 
@@ -23,22 +23,29 @@ I value clean code, problem solving, and teamwork, and I’m currently prioritiz
 ### 🧭 AI Roadmap
 - Strengthening algorithmic foundations through the 42 curriculum  
 - Preparing for future personal projects in Machine Learning  
-- Exploring AI applications in games and simulations  
+- Exploring applied AI use cases  
 
 ---
 
 ### 👯 Looking to Collaborate On
 - Algorithmic or system-level projects  
-- Game development projects  
-- AI-related projects (learning-oriented, junior level)  
+- Learning-oriented AI projects  
+- Technical or experimental side projects  
 
 ---
 
 ### 💬 Ask Me About
 - Algorithms & problem solving  
 - C / C++ / Python  
-- Game development fundamentals  
-- AI logic & experimentation  
+- AI fundamentals  
+- Game mechanics & AI logic  
+
+---
+
+### 🎯 Passions & Interests
+- **Video games**, with a strong interest in gameplay systems and AI-driven mechanics  
+- **Game development** as a technical and creative field  
+- **Artificial Intelligence**, especially applied to problem solving and simulations  
 
 ---
 
