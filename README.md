@@ -2,14 +2,13 @@
 
 I'm a student at **42 School**, focused on building strong foundations in **algorithms, low-level programming, and Python**, with a growing interest in **Artificial Intelligence**.
 
-I value clean code, problem solving, and teamwork, and I’m currently prioritizing the completion of the 42 curriculum before starting personal AI projects.
+I value clean code, problem solving, and teamwork.
 
 ---
 
 ### 🔭 Currently Working On
-- Completing the 42 School core curriculum  
-- Team-based projects with strong algorithmic focus  
-- Improving my Python skills  
+- Improving my Python skills
+- Learning about Python AI environnement and libraries such as Pytoch, Numpy, Spyder, etc...  
 
 ---
 
@@ -37,15 +36,14 @@ I value clean code, problem solving, and teamwork, and I’m currently prioritiz
 ### 💬 Ask Me About
 - Algorithms & problem solving  
 - C / C++ / Python  
-- AI fundamentals  
 - Game mechanics & AI logic  
 
 ---
 
 ### 🎯 Passions & Interests
+- **Artificial Intelligence**, especially applied to problem solving and simulations  
 - **Video games**, with a strong interest in gameplay systems and AI-driven mechanics  
 - **Game development** as a technical and creative field  
-- **Artificial Intelligence**, especially applied to problem solving and simulations  
 
 ---
 
