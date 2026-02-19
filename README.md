@@ -58,7 +58,7 @@ I value clean code, problem solving, and teamwork.
 ---
 
 ### 📫 How to Reach Me
-- GitHub: [@Sung-Jinw00](https://github.com/Sung-Jinw00)  
+- GitHub: [@Louis-Cagnion](https://github.com/Louis-Cagnion)  
 - Email: [louis.cagnion.pro@gmail.com](mailto:louis.cagnion.pro@gmail.com)  
 - LinkedIn: [Louis Cagnion](https://www.linkedin.com/in/louis-cagnion-7249121a6/)  
 
@@ -66,8 +66,8 @@ I value clean code, problem solving, and teamwork.
 
 ### ⚡ Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sung-Jinw00&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Louis-Cagnion&layout=compact&theme=dark)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sung-Jinw00&theme=dark&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Louis-Cagnion&theme=dark&hide_border=true)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sung-Jinw00&theme=react-dark&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Louis-Cagnion&theme=react-dark&hide_border=true)
