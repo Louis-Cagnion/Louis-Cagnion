@@ -69,5 +69,3 @@ I value clean code, problem solving, and teamwork.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Louis-Cagnion&layout=compact&theme=dark)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Louis-Cagnion&theme=dark&hide_border=true)
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Louis-Cagnion&theme=react-dark&hide_border=true)
