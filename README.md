@@ -1,70 +1,75 @@
 ## Hello there 👋
 
-I'm a student at **42 School**, focused on building strong foundations in **algorithms, low-level programming, and Python**, with a growing interest in **Artificial Intelligence**.
+I'm a **software engineering student at 42 School**, focused on building strong foundations in **C/C++ systems programming, backend development, and Python**, with a growing interest in **LLMs and applied Artificial Intelligence**.
 
-I value clean code, problem solving, and teamwork.
-
----
-
-### 🔭 Currently Working On
-- Improving my Python skills
-- Learning about Python AI environnement and libraries such as Pytoch, Numpy, Spyder, etc...  
+I enjoy building robust systems, understanding how things work under the hood, and solving complex engineering problems.
 
 ---
 
-### 🌱 Currently Learning
-- Advanced Python  
-- Machine Learning fundamentals  
-- Data-oriented programming concepts  
+### 🔭 Current Focus
+- Backend development in C and C++
+- System programming (processes, networking, architecture)
+- Python for tooling and experimentation
+- Exploring LLM-based applications
 
 ---
 
-### 🧭 AI Roadmap
-- Strengthening algorithmic foundations through the 42 curriculum  
-- Preparing for future personal projects in Machine Learning  
-- Exploring applied AI use cases  
+### 🌱 Learning & Improving
+- Advanced system design concepts  
+- Backend architecture patterns  
+- Python for data and AI workflows  
+- Foundations of Machine Learning and LLMs  
 
 ---
 
-### 👯 Looking to Collaborate On
-- Algorithmic or system-level projects  
-- Learning-oriented AI projects  
-- Technical or experimental side projects  
+### 🧭 Direction
+- Strengthening low-level and backend engineering skills through 42 projects  
+- Building real-world systems (servers, shells, distributed components)  
+- Gradually transitioning toward applied AI and LLM systems  
+
+---
+
+### 👯 Open to Collaborate On
+- Backend or system-level projects (C/C++)  
+- API design and server-side engineering  
+- Experimental AI or LLM-based applications  
+- Performance-oriented programming challenges  
 
 ---
 
 ### 💬 Ask Me About
-- Algorithms & problem solving  
-- C / C++ / Python  
-- Game mechanics & AI logic  
+- Systems programming (C / C++)  
+- Backend architecture  
+- Process management & networking  
+- Problem solving & algorithms  
+- Early-stage AI / LLM experiments  
 
 ---
 
-### 🎯 Passions & Interests
-- **Artificial Intelligence**, especially applied to problem solving and simulations  
-- **Video games**, with a strong interest in gameplay systems and AI-driven mechanics  
-- **Game development** as a technical and creative field  
+### 🎯 Interests
+- **Systems programming & backend architecture**
+- **Artificial Intelligence (especially LLM applications)**
+- **Game systems and simulation design**
+- Understanding how complex software systems are built
 
 ---
 
 ### 🎓 42 School Background
-- Strong focus on algorithms and data structures  
-- Low-level programming in C and C++  
-- Peer-to-peer learning and team collaboration  
-- Autonomous project-based learning  
-
-*Most 42 core curriculum projects are kept private in accordance with school policies.*
+- Intensive training in algorithms, data structures, and system programming  
+- Strong focus on C/C++ development and Unix-like systems  
+- Project-based learning with emphasis on autonomy and rigor  
+- Experience in building full systems (server, shell, graphical projects)
 
 ---
 
-### 📫 How to Reach Me
+### 📫 Contact
 - GitHub: [@Louis-Cagnion](https://github.com/Louis-Cagnion)  
 - Email: [louis.cagnion.pro@gmail.com](mailto:louis.cagnion.pro@gmail.com)  
 - LinkedIn: [Louis Cagnion](https://www.linkedin.com/in/louis-cagnion-7249121a6/)  
 
 ---
 
-### ⚡ Stats
+### ⚡ GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Louis-Cagnion&layout=compact&theme=dark)
 
