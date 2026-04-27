@@ -1,64 +1,73 @@
 ## Hello there 👋
 
-I'm a **software engineering student at 42 School**, focused on building strong foundations in **C/C++ systems programming, backend development, and Python**, with a growing interest in **LLMs and applied Artificial Intelligence**.
+I'm a **software engineering student at 42 School**, focused on building low-level and full-stack systems with a strong emphasis on **C/C++, backend architecture, and web development**.
 
-I enjoy building robust systems, understanding how things work under the hood, and solving complex engineering problems.
+🎓 I'm currently **looking for a 6-month internship** (end-of-studies internship) starting soon.
+
+I enjoy designing and implementing complete systems from scratch — including shells, web servers, and real-time applications — while understanding how everything works under the hood.
 
 ---
 
 ### 🔭 Current Focus
-- Backend development in C and C++
-- System programming (processes, networking, architecture)
-- Python for tooling and experimentation
-- Exploring LLM-based applications
+- Systems programming in C and C++ (42 curriculum projects)
+- Backend architecture (APIs, services, real-time systems)
+- Web development (JavaScript / TypeScript)
+- Networking, processes, and OS-level concepts
 
 ---
 
 ### 🌱 Learning & Improving
-- Advanced system design concepts  
-- Backend architecture patterns  
-- Python for data and AI workflows  
-- Foundations of Machine Learning and LLMs  
+- Scalable backend system design
+- Advanced C/C++ architecture patterns
+- WebSockets and real-time communication
+- Distributed and microservice-based systems
+- Foundations of applied AI (LLMs, experimentation)
 
 ---
 
 ### 🧭 Direction
-- Strengthening low-level and backend engineering skills through 42 projects  
-- Building real-world systems (servers, shells, distributed components)  
-- Gradually transitioning toward applied AI and LLM systems  
+- Strengthening systems and backend engineering through 42 core projects
+- Building real-time and networked applications (games, servers, shells)
+- Developing full-stack projects with clean architecture
+- Gradually exploring AI systems and applied LLM use cases
 
 ---
 
 ### 👯 Open to Collaborate On
-- Backend or system-level projects (C/C++)  
-- API design and server-side engineering  
-- Experimental AI or LLM-based applications  
-- Performance-oriented programming challenges  
+- Backend systems (C, C++, Node.js, TypeScript)
+- Real-time applications (WebSockets, multiplayer systems)
+- Operating system / networking related projects
+- Performance-focused engineering challenges
 
 ---
 
 ### 💬 Ask Me About
-- Systems programming (C / C++)  
-- Backend architecture  
-- Process management & networking  
-- Problem solving & algorithms  
-- Early-stage AI / LLM experiments  
+- Unix systems programming (processes, pipes, signals)
+- Backend architecture and API design
+- Real-time systems (game servers, WebSockets)
+- 42 projects (minishell, webserv, cub3d, transcendence)
+- Debugging and low-level problem solving
 
 ---
 
 ### 🎯 Interests
-- **Systems programming & backend architecture**
-- **Artificial Intelligence (especially LLM applications)**
-- **Game systems and simulation design**
-- Understanding how complex software systems are built
+- Systems programming and operating systems
+- Backend engineering and scalable architecture
+- Real-time multiplayer systems
+- Game engines and simulations
+- Applied AI (LLMs, tool-based systems)
 
 ---
 
 ### 🎓 42 School Background
-- Intensive training in algorithms, data structures, and system programming  
-- Strong focus on C/C++ development and Unix-like systems  
-- Project-based learning with emphasis on autonomy and rigor  
-- Experience in building full systems (server, shell, graphical projects)
+- Intensive training in algorithms, system programming, and software architecture
+- Strong focus on C/C++ and Unix-like environments
+- Project-based learning with strict constraints (memory, performance, architecture)
+- Experience building:
+  - Shells (Minishell)
+  - Web servers (Webserv)
+  - 3D engines (Cub3D)
+  - Full-stack applications (Transcendence)
 
 ---
 
