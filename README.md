@@ -2,7 +2,7 @@
 
 I'm a **software engineering student at 42 School**, focused on building low-level and full-stack systems with a strong emphasis on **C/C++, backend architecture, and web development**.
 
-🎓 I'm currently **looking for a 6-month internship** (end-of-studies internship) starting soon.
+🎓 I'm currently **looking for an internship or alternance** (end-of-studies internship) starting soon.
 
 I enjoy designing and implementing complete systems from scratch — including shells, web servers, and real-time applications — while understanding how everything works under the hood.
 
