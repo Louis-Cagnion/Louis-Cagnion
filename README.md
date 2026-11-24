@@ -1,83 +1,60 @@
-## Hello there 👋
- 
-I'm a **software engineering student at 42 School**, focused on building low-level and full-stack systems with a strong emphasis on **C/C++, backend architecture, and web development**.
- 
-🎓 I'm currently on a **2-year alternance (apprenticeship) at Tressol-Chabrier**, preparing an **RNCP6 - Software Solutions Designer and Developer**.
- 
-📚 I plan to continue for one more year to obtain an **RNCP7 in AI and Algorithmics**.
- 
-I enjoy designing and implementing complete systems from scratch — including shells, web servers, and real-time applications — while understanding how everything works under the hood.
- 
----
- 
-### 🔭 Current Focus
-- Tech & Data engineering at Tressol-Chabrier: building **Atlas**, an internal reporting web app (PHP / JS / SQL Server) for a car dealership network — dashboards for sales, quality, and call center KPIs across multiple brands and sites
-- Auditing and fixing data-mapping issues across SQL Server databases (SIRET matching, referential mismatches, ETL gaps)
-- Next up: building AI agents to automate customer support responses to common questions
-- 42 curriculum projects
-- Backend architecture (APIs, services, real-time systems)
-- Web development (JavaScript / TypeScript)
-- Networking, processes, and OS-level concepts
----
- 
-### 🌱 Learning & Improving
-- Scalable backend system design
-- Advanced C/C++ architecture patterns
-- WebSockets and real-time communication
-- Distributed and microservice-based systems
-- Foundations of applied AI (LLMs, experimentation)
----
- 
-### 🧭 Direction
-- Strengthening systems and backend engineering through 42 core projects
-- Building real-time and networked applications (games, servers, shells)
-- Developing full-stack projects with clean architecture
-- Gradually exploring AI systems and applied LLM use cases
-- Long-term: aiming for a **"Developer \*"** profile — comfortable across the whole stack rather than confined to one layer
----
- 
-### 👯 Open to Collaborate On
-- Backend systems (C, C++, Node.js, TypeScript)
-- Real-time applications (WebSockets, multiplayer systems)
-- Operating system / networking related projects
-- Performance-focused engineering challenges
----
- 
-### 💬 Ask Me About
+## Hi, I'm Louis 👋
+
+Software engineering student at **42 School** and apprentice developer at **Tressol-Chabrier**. I like understanding how things work under the hood, from a shell to a web server to a 3D engine, and I'm now extending that curiosity to data and applied AI.
+
+### 🔭 Right now
+
+- **Apprenticeship** (Sept 2026 to Sept 2028, RNCP6 Software Solutions Designer and Developer), followed by one more year toward an RNCP7 in AI and Algorithmics.
+- Building **Atlas**, an internal reporting web app (PHP, JavaScript, SQL Server) with sales, quality and call-center KPI dashboards for a multi-brand car dealership network.
+- Auditing data mappings across SQL Server databases (SIRET matching, referential mismatches, ETL gaps).
+- Next: AI agents that answer common customer-support questions.
+- 42 cursus: Linux kernel track (`ft_linux` done, `little-penguin-1` in progress), then OpenGL and OCaml.
+
+### 🧱 What I've built at 42
+
+| Project | My part |
+|---|---|
+| Minishell (team) | pipes, builtins, `&&` / `||` / parentheses through an execution tree |
+| Cub3D (pair) | map parser, collisions, minimap, movement |
+| Webserv (pair) | config parser, autoindex, GET / POST / DELETE, cookies and sessions, CGI |
+| Transcendence (team of 5) | Pong AI opponent, 3D renderer with Three.js |
+
+Solo: libft, ft_printf, get_next_line, push_swap, Pipex, Philosophers, fract-ol, `scop` (OpenGL in C), `ft_linux` (a Linux system built from source), C++ modules 00 to 09. On Codewars, I solved the 1 kyu **Skyscrapers** kata with my own solver.
+
+### 🛠️ Skills
+
+| Level | Stack |
+|---|---|
+| Strong | C, Unix processes / pipes / signals, algorithmics |
+| Comfortable | C++98, HTTP and sockets, 3D graphics, Python, Git |
+| Learning | SQL, PHP, TypeScript, Docker, Linux kernel, LLMs and applied ML |
+
+### 💬 Ask me about
+
 - Unix systems programming (processes, pipes, signals)
-- Backend architecture and API design
-- Real-time systems (game servers, WebSockets)
-- 42 projects (minishell, webserv, cub3d, transcendence)
-- Debugging and low-level problem solving
----
- 
-### 🎯 Interests
-- Systems programming and operating systems
-- Backend engineering and scalable architecture
-- Real-time multiplayer systems
-- Game engines and simulations
-- Applied AI (LLMs, tool-based systems)
----
- 
-### 🎓 42 School Background
-- Intensive training in algorithms, system programming, and software architecture
-- Strong focus on C/C++ and Unix-like environments
-- Project-based learning with strict constraints (memory, performance, architecture)
-- Experience building:
-  - Shells (Minishell)
-  - Web servers (Webserv)
-  - 3D engines (Cub3D)
-  - Full-stack applications (Transcendence)
----
- 
+- Writing an HTTP server from scratch in C++
+- Search and pruning algorithms (Skyscrapers, push_swap)
+- Debugging low-level problems
+
+### 🤝 Open to collaborate on
+
+Systems and networking projects, performance challenges, games and simulations.
+
+Long-term goal: a **"Developer \*"** profile, comfortable across the whole stack.
+
 ### 📫 Contact
-- GitHub: [@Louis-Cagnion](https://github.com/Louis-Cagnion)  
-- Email: [louis.cagnion.pro@gmail.com](mailto:louis.cagnion.pro@gmail.com)  
+
+- GitHub: [@Louis-Cagnion](https://github.com/Louis-Cagnion)
+- Email: [louis.cagnion.pro@gmail.com](mailto:louis.cagnion.pro@gmail.com)
 - LinkedIn: [Louis Cagnion](https://www.linkedin.com/in/louis-cagnion-7249121a6/)
-- 42 Profile: [locagnio](https://profile.intra.42.fr/users/locagnio)
-- Portfolio : [Portfolio](https://louis-cagnion.github.io/Portfolio)
----
- 
-### ⚡ GitHub Stats
+- 42 profile: [locagnio](https://profile.intra.42.fr/users/locagnio)
+- Portfolio: [louis-cagnion.github.io/Portfolio](https://louis-cagnion.github.io/Portfolio)
+
+### ⚡ GitHub stats
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Louis-Cagnion&layout=compact&theme=dark)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Louis-Cagnion&theme=dark&hide_border=true)
+
+### 🗡️ Solo Leveling system
+
+[louis-cagnion.github.io/Solo_leveling](https://louis-cagnion.github.io/Solo_leveling/)
